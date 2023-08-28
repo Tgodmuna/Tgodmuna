@@ -1,6 +1,6 @@
 👋 Hi, I'm ThankGod Munachimso Agu, a passionate frontend developer with a keen eye for crafting engaging user experiences. 💻 I'm currently seeking new opportunities in the tech industry. 🚀
 
-🌟 With a strong foundation in HTML, CSS, and JavaScript, I've built a diverse portfolio of projects that showcase my skills. From interactive drawing boards to sleek weather apps, I love turning ideas into functional and visually appealing web applications. 🎨⛅
+🌟 With a strong foundation in HTML, CSS, Tailwindcss ReactJS and JavaScript, I've built a diverse portfolio of projects that showcase my skills. From interactive drawing boards to sleek weather apps, I love turning ideas into functional and visually appealing web applications. 🎨⛅
 
 🔧 Recently, I had the opportunity to work with a team of talented developers, where I took on the front-end role. I was responsible for building the site's front-end, including the dashboard, using React.js. I ensured that the dashboard was responsive, providing a seamless user experience across different devices.
 
