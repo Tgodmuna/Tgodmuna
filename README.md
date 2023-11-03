@@ -1,15 +1,41 @@
-👋 Hi, I'm ThankGod Munachimso Agu, a passionate frontend developer with a keen eye for crafting engaging user experiences. 💻 I'm currently seeking new opportunities in the tech industry. 🚀
+# Hey there, I'm ThankGod Munachimso Agu, or you can call me Tgod! 👋
 
-🌟 With a strong foundation in HTML, CSS, Tailwindcss ReactJS and JavaScript, I've built a diverse portfolio of projects that showcase my skills. From interactive drawing boards to sleek weather apps, I love turning ideas into functional and visually appealing web applications. 🎨⛅
+I'm a computer science graduate from Enugu State University of Science and Technology (ESUT), Nigeria, and I'm deeply passionate about web development, especially with React. I have a strong desire to explore the world of data structures and algorithms to boost my problem-solving abilities.
 
-🔧 Recently, I had the opportunity to work with a team of talented developers, where I took on the front-end role. I was responsible for building the site's front-end, including the dashboard, using React.js. I ensured that the dashboard was responsive, providing a seamless user experience across different devices.
+🌱 Here's a glimpse of my tech stack:
+- HTML
+- CSS
+- JavaScript
+- TypeScript
+- React
+- Tailwind CSS
+- Styled-components
+- Git and GitHub
 
-⚙️ To accomplish this, I leveraged React hooks and React Router for efficient state management and navigation. I utilized styled-components to create modular and reusable styles, combining the power of CSS-in-JS with the flexibility of component-based styling. Additionally, I made use of external stylesheets to incorporate existing styles and maintain consistency.
+💼 I'm actively seeking opportunities in the field of frontend web development and I'm thrilled to contribute my skills to a dynamic team.
 
-⚡ I focused on optimizing the UI by implementing performance-enhancing hooks and techniques. By following the React way of development, I broke down the site's pages into various sub-components, improving code organization, maintainability, and reusability.
+ ## 🧠My current area of focus:
 
-📚 Constantly learning and staying up-to-date with the latest web technologies, I thrive in collaborative environments where I can contribute my creativity and problem-solving abilities to deliver exceptional user-centric solutions.
+  Mastering data structures and algorithms to solve real-world problems like a pro.
 
-🌍 Let's connect! Check out my GitHub repositories for a glimpse into my work. I actively use Git and GitHub for version control and collaboration. If you're looking for a frontend developer who can bring your vision to life, feel free to reach out. I'm excited to collaborate on innovative projects and make a meaningful impact in the digital world. 🤝
+📚 I'm a self-taught developer who loves sharing knowledge and discussing all things tech and programming.
 
-📧 You can reach me at aguthankgod@gmail.com.
+
+🚀 I'm constantly striving for excellence and love to share my knowledge about tech and programming. Whether it's beginner-friendly explanations or diving deep into complex concepts, I'm here to help.
+
+Feel free to reach out, and let's embark on this exciting learning journey together!
+
+---
+
+### 📫 How to connect with me:
+
+- LinkedIn: [Connect with me](https://www.linkedin.com/in/thankgod-munachimso-1b456515a/)
+- Email: [Connect with me](Aguthankgod@gmail.com)
+-  Twitter: [Connect with me](https://twitter.com/Dev_Tgod1/)
+- Portfolio: [Connect with me](https://tgodmuna.netlify.app/)
+
+### 💡 Fun fact:
+
+I'm enthusiastic about both concise and detailed responses, and I'm always eager to learn and improve. If you have any tech-related questions or need assistance, just ask, and I'll make sure to explain everything in the simplest way possible.
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=TGodMuna&showicons=true)
