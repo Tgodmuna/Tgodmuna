@@ -1,6 +1,6 @@
-# Hey there, I'm ThankGod Munachimso Agu, or you can call me Tgod! 👋
+# Heyo, I'm ThankGod Munachimso Agu, or you can call me Tgod! 👋
 
-I'm a computer science graduate from Enugu State University of Science and Technology (ESUT), Nigeria, and I'm deeply passionate about web development, especially with React. I have a strong desire to explore the world of data structures and algorithms to boost my problem-solving abilities.
+I'm a ReactJS Developer and a computer science graduate from Enugu State University of Science and Technology (ESUT), Nigeria, and I'm deeply passionate about web development, especially with React. I have a strong desire to explore the world of data structures and algorithms to boost my problem-solving abilities.
 
 🌱 Here's a glimpse of my tech stack:
 - HTML
