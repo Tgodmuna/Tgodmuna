@@ -8,6 +8,8 @@ I'm a ReactJS Developer and a computer science graduate from Enugu State Univers
 - JavaScript
 - TypeScript
 - React
+- React-Router
+- RTL/jest
 - Tailwind CSS
 - Styled-components
 - Git and GitHub
