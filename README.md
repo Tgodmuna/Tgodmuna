@@ -3,16 +3,13 @@
 I'm a ReactJS Developer and a computer science graduate from Enugu State University of Science and Technology (ESUT), Nigeria, and I'm deeply passionate about web development, especially with React. I have a strong desire to explore the world of data structures and algorithms to boost my problem-solving abilities.
 
 🌱 Here's a glimpse of my tech stack:
-- HTML
-- CSS
 - JavaScript
 - TypeScript
 - React
-- React-Router
 - RTL/jest
 - Tailwind CSS
-- Styled-components
 - Git and GitHub
+- Nodejs   
 
 💼 I'm actively seeking opportunities in the field of frontend web development and I'm thrilled to contribute my skills to a dynamic team.
 
