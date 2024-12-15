@@ -37,6 +37,6 @@ Feel free to reach out—let’s collaborate and learn together!
 I'm passionate about simplifying complex ideas and making them accessible. If you have any tech-related questions or need help with programming concepts, don't hesitate to ask—I’ll explain everything in the simplest way possible!
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=TGodMuna&showicons=true)
-
+<a href="https://wakatime.com/@8ddcea7b-50aa-4573-a260-71740a9a50ad"><img src="https://wakatime.com/badge/user/8ddcea7b-50aa-4573-a260-71740a9a50ad.svg" style="social" alt="Total time coded since Jun 29 2023" /></a>
 --- 
 
