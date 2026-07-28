@@ -1,55 +1,90 @@
-# ThankGod Munachimso Agu
+# 👋 Hi, I'm ThankGod Munachimso Agu
 
-Backend Software Engineer → Transitioning into DevOps & Systems Engineering
+## DevOps Engineer | Software Engineer | Linux • Docker • CI/CD • Cloud
 
-I design and build backend systems—and I’m currently focused on learning how to run them in production using modern DevOps practices.
+I'm a Software Engineer transitioning into DevOps, combining application development with infrastructure, automation, and deployment.
 
----
+My background in backend engineering gives me a solid understanding of how applications are built, while my current focus is on how they are deployed, scaled, monitored, and maintained in production environments.
 
-##  Current Focus (Active Upskilling)
-
-* Building backend services with **Go (Golang)**
-* Containerizing applications with **Docker**
-* Implementing **CI/CD pipelines** (GitHub Actions)
-* Learning **cloud deployment** and system design
+I enjoy building reliable systems, automating repetitive tasks, and continuously improving development workflows.
 
 ---
 
-## 🧠 Core Expertise
+## 🚀 What I'm Working On
 
-* Backend architecture & API design
-* Authentication, authorization & security
-* MongoDB data modeling & performance
-* Production-ready backend services
-
----
-
-## ⚙️ Tech Stack
-
-**Backend:** Node.js, Express.js, Go, Python, MongoDB, PostgreSQL
-**Frontend:** JavaScript, TypeScript, React
-**DevOps (Learning):** Docker, CI/CD, Cloud (AWS)
-**Testing:** Jest
-**Tools:** Git, REST APIs, Postman
+- Linux Administration
+- Docker & Containerization
+- CI/CD Pipelines with GitHub Actions and Jenkins
+- Cloud Computing (AWS)
+- Infrastructure Automation
+- Backend Services with Node.js & Go
+- Production Deployment & Monitoring
 
 ---
 
-## 📌 Current Direction
+## 💡 Core Skills
 
-I am actively building and documenting real-world projects that combine backend engineering with DevOps practices—focusing on deployment, automation, and system reliability.
+### DevOps
+- Linux
+- Docker
+- Git & GitHub
+- GitHub Actions
+- Jenkins
+- CI/CD
+- AWS *(currently expanding my knowledge)*
+
+### Backend Engineering
+- Node.js
+- Express.js
+- Go (Golang)
+- Python
+- REST APIs
+- Authentication & Authorization
+- MongoDB
+- PostgreSQL
+
+### Frontend
+- JavaScript
+- TypeScript
+- React
+
+### Testing & Tools
+- Jest
+- Postman
+- Git
 
 ---
 
-## 📫 Contact
+## 📂 What You'll Find Here
 
-LinkedIn: https://linkedin.com/in/tg-agu
-Email: [Aguthankgod@gmail.com](mailto:Aguthankgod@gmail.com)
-Portfolio: https://tgodmuna.netlify.app
+This GitHub contains projects documenting my transition from Software Engineering into DevOps, including:
+
+- Backend applications
+- Linux administration labs
+- Dockerized projects
+- CI/CD implementations
+- Cloud deployment experiments
+- Automation scripts
+- Infrastructure and system administration projects
 
 ---
 
-## ⏱️ Hours Spent on Writing Code
+## 🎯 Current Goal
+
+I'm building a strong DevOps portfolio by applying industry best practices in automation, deployment, monitoring, infrastructure, and cloud technologies while continuing to strengthen my software engineering foundation.
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: https://linkedin.com/in/tg-agu
+- Portfolio: https://tgodmuna.netlify.app
+- Email: Aguthankgod@gmail.com
+
+---
+
+## ⏱️ Coding Activity
 
 <a href="https://wakatime.com/@8ddcea7b-50aa-4573-a260-71740a9a50ad">
-<img src="https://wakatime.com/badge/user/8ddcea7b-50aa-4573-a260-71740a9a50ad.svg" style="social" alt="Total time coded since Jun 29 2023" />
+<img src="https://wakatime.com/badge/user/8ddcea7b-50aa-4573-a260-71740a9a50ad.svg" alt="WakaTime Stats" />
 </a>
